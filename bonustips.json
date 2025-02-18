@@ -7,6 +7,10 @@
     {
       "title": "Airbnb JavaScript Style Guide",
       "link": "https://github.com/airbnb/javascript"
+    },
+    {
+      "title" : "javascript-coding-challenges",
+      "link" : "https://github.com/rradfar/javascript-coding-challenges"
     }
   ]
 }
